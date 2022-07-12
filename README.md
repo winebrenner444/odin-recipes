@@ -1,1 +1,2 @@
 # odin-recipes
+This project will help me to apply the HTML that I have been learning. Once completed, I will have demonstrated an understanding of HTML and its syntax. Self reflection is to come at end of project.
