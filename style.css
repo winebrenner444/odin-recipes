@@ -1,0 +1,44 @@
+/* CSS Styles*/
+*{
+    background-color: antiquewhite;
+}
+.odin{
+    color: green;
+}
+.dish{
+        padding-bottom: 60px;
+
+}
+img{
+    margin: auto;
+    display: block;
+    border-radius: 10%;
+    height: auto;
+    width: 33%;
+}
+
+.description,
+.ingredients,
+.steps{
+    text-align: center;
+}
+.headings{
+    color:rgb(114, 137, 137);
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+    
+}
+li{
+    text-align: justify;
+}
